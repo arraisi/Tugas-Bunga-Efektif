@@ -1,0 +1,2 @@
+bungaEfektif.BungaEfektif
+bungaefektif.bungaEfektif
